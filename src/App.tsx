@@ -7,7 +7,7 @@ function App() {
     <>
       <main>
         <section className="hero-section">
-          <img src="./images/logo.svg" alt="logo de Clipboard" />
+          <img src="/clipboard-landing/images/logo.svg" alt="logo de Clipboard" />
           <h1> A history of everything you copy</h1>
           <p>
             {" "}
@@ -37,7 +37,7 @@ function App() {
             </p>
           </div>
           <div>
-            <img src="./images/image-computer.png" alt="imagen de computadora" />
+            <img src="/clipboard-landing/images/image-computer.png" alt="imagen de computadora" />
           </div>
           <div className="features-section">
             <FeatureItem
@@ -64,7 +64,7 @@ function App() {
           </div>
           <div>
             <img
-              src="./images/image-devices.png"
+              src="/clipboard-landing/images/image-devices.png"
               alt="imagen de tablet y movile"
             />
           </div>
@@ -101,15 +101,15 @@ function App() {
         </section>
         <article>
           <div>
-            <img src="./images/logo-google.png" alt="imagen logo de google" />
-            <img src="./images/logo-ibm.png" alt="imagen logo de ibm" />
+            <img src="/clipboard-landing/images/logo-google.png" alt="imagen logo de google" />
+            <img src="/clipboard-landing/images/logo-ibm.png" alt="imagen logo de ibm" />
             <img
-              src="./images/logo-microsoft.png"
+              src="/clipboard-landing/images/logo-microsoft.png"
               alt="imagen logo de microsoft"
             />
-            <img src="./images/logo-hp.png" alt="imagen logo de hp" />
+            <img src="/clipboard-landing/images/logo-hp.png" alt="imagen logo de hp" />
             <img
-              src="./images/logo-vector-graphics.png"
+              src="/clipboard-landing/images/logo-vector-graphics.png"
               alt="imagen logo de vector"
             />
           </div>
@@ -136,7 +136,7 @@ function App() {
       </main>
       <footer>
         <div className="footer-container">
-          <img src="./images/logo.svg" alt="logo de Clipboard" />
+          <img src="/clipboard-landing/images/logo.svg" alt="logo de Clipboard" />
           <div className="footer-nav">
             <ul>
               <li>FAQs</li>
@@ -147,9 +147,9 @@ function App() {
             </ul>
           </div>
           <div className="footer-social-links">
-            <img src="./images/icon-facebook.svg" alt="icono de facebook" />
-            <img src="./images/icon-twitter.svg" alt="icono de twitter" />
-            <img src="./images/icon-instagram.svg" alt="icono de instagram" />
+            <img src="/clipboard-landing/images/icon-facebook.svg" alt="icono de facebook" />
+            <img src="/clipboard-landing/images/icon-twitter.svg" alt="icono de twitter" />
+            <img src="/clipboard-landing/images/icon-instagram.svg" alt="icono de instagram" />
           </div>
         </div>
       </footer>
